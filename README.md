@@ -174,5 +174,3 @@ Do not use this tool on networks without proper authorization.
 ---
 
 
-Vinit Raparti  
-Cyber Security Enthusiast 🔐
